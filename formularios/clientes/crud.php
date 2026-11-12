@@ -1,5 +1,5 @@
 <?php
-// 1. CONEXION A LA BASE DE DATOS
+// 1. CONEXION A LA BASE DE DATOSssssss
 require_once("../../conexion/conexion.php");
 $objConexion = new Conexion();
 $conexion = $objConexion->getConexion();
